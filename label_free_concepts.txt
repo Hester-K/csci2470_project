@@ -1,0 +1,823 @@
+{
+  "Chihuahua": [
+    "apple_head: yes",
+    "ears_large_and_erect: yes",
+    "eyes_large_round: yes",
+    "tiny_size_under_3kg: yes",
+    "tail_carried_over_back_in_loop: yes"
+  ],
+  "Japanese spaniel": [
+    "Long, silky coat covering the entire body",
+    "Flat face with a short muzzle (brachycephalic)",
+    "Large, round, dark eyes",
+    "Pendant ears with long fringe",
+    "Tail carried over the back in a high arch"
+  ],
+  "Maltese dog": [
+    "Has a pure white coat.",
+    "Has a long, silky, straight coat (no curl).",
+    "Has long, pendulous ears with heavy feathering.",
+    "Has a tail carried over the back in a high plume.",
+    "Is toy-sized, with height at the withers up to 10 inches."
+  ],
+  "Pekinese": [
+    "Flat-faced (brachycephalic) skull with a very short muzzle",
+    "Long, dense double coat",
+    "Lion-like mane around the neck",
+    "Tail carried over the back in a plume",
+    "Compact, sturdy body with a short back"
+  ],
+  "Tzu": [
+    "short, brachycephalic muzzle",
+    "long, flowing double coat",
+    "tail carried over the back in a high arch with plume",
+    "long, pendulous ears with heavy feathering",
+    "toy-sized body height (withers under 11 inches / 28 cm)"
+  ],
+  "Blenheim spaniel": [
+    "White base coat with chestnut patches (Blenheim coloration).",
+    "Ears long, pendulous, and heavily feathered.",
+    "Coat silky and medium-length (no curl).",
+    "Eyes large, round, and dark.",
+    "Small size: typically around 12–13 inches tall at the shoulder."
+  ],
+  "papillon": [
+    "fringed_ears",
+    "ears_erect_and_separated",
+    "tail_plume_carried_over_back",
+    "long_silky_coat",
+    "white_base_color_with_patches"
+  ],
+  "toy terrier": [
+    "Short, smooth coat (not long or fluffy)",
+    "Black with tan markings (two-tone black and tan) present",
+    "Erect, upright ears",
+    "Tail docked and carried high",
+    "Very small size (height at withers typically ≤ 28 cm / 11 inches)"
+  ],
+  "Rhodesian ridgeback": [
+    "Dorsal ridge along the spine (distinct ridge)",
+    "Short, dense coat lying close to the body",
+    "Solid wheaten to red-wheaten coat color (no large white markings)",
+    "Black nose",
+    "Medium-sized ears carried forward (rose-shaped)"
+  ],
+  "Afghan hound": [
+    "has_long_silky_coat_that_reaches_ground",
+    "has_pendant_ears_with_dense_feathering",
+    "has_tall_lean_body_with_long_legs",
+    "has_narrow_head_with_elongated_muzzle",
+    "tail_is_long_curved_over_back_with_plume"
+  ],
+  "basset": [
+    "has a long body relative to height",
+    "has short legs",
+    "has very long, droopy ears",
+    "has loose facial and neck skin",
+    "has a short, smooth coat"
+  ],
+  "beagle": [
+    "Long, pendulous ears",
+    "White-tipped tail carried high",
+    "Tri-color or black-and-tan coat with a black saddle",
+    "Short, dense coat",
+    "Medium-sized, sturdy build with a broad chest"
+  ],
+  "bloodhound": [
+    "Has very long, pendulous ears that hang well below the jawline",
+    "Has prominent facial wrinkles and loose skin around the muzzle/cheeks",
+    "Has a noticeable neck dewlap (folds of skin around the neck)",
+    "Has an elongated head with a long muzzle in proportion to the skull",
+    "Has a soft, droopy eye expression (mournful look)"
+  ],
+  "bluetick": [
+    "Has blue-tick coat pattern (white base with blue/black ticking)",
+    "Has a short, smooth coat",
+    "Has long, pendulous ears",
+    "Has a relatively long muzzle",
+    "Has a medium-to-large, athletic build"
+  ],
+  "tan coonhound": [
+    "Has long, pendulous ears that hang below the jaw.",
+    "Coat color is predominantly tan with minimal black or white markings.",
+    "Has a relatively long muzzle and elongated head shape.",
+    "Body size is medium to large with a deep chest and athletic build.",
+    "Eyes are amber or light brown."
+  ],
+  "Walker hound": [
+    "long_pendulous_ears",
+    "short_dense_coat",
+    "typical_tricolor_black_white_tan",
+    "medium_to_large_size",
+    "tail_carried_high_when_alert"
+  ],
+  "English foxhound": [
+    "has_long_pendulous_ears",
+    "has_short_dense_coat",
+    "has_tail_carried_high_over_back",
+    "has_long_narrow_muzzle",
+    "color_pattern_white_base_with_black_and_tan_patches"
+  ],
+  "redbone": [
+    "coat_color_solid_red",
+    "coat_length_short",
+    "ears_are_long_and_pendulous",
+    "body_size_large",
+    "nose_color_black"
+  ],
+  "borzoi": [
+    "has a long, narrow muzzle",
+    "is very tall with a slender, long-legged build",
+    "has a long, silky coat with feathering on the legs, chest, and tail",
+    "has small, pendant ears that lie close to the head",
+    "has a long, thick, plume-like tail carried low"
+  ],
+  "Irish wolfhound": [
+    "Height at withers at least 32 inches (≈81 cm)",
+    "Coat texture harsh/wiry (outer coat coarse)",
+    "Ears small and folded against the head",
+    "Body length greater than height at withers (elongated, rectangular silhouette)",
+    "Muzzle length long (long, narrow muzzle)"
+  ],
+  "Italian greyhound": [
+    "has_small_stature (withers height ~32–38 cm)",
+    "has_short_smooth_coat",
+    "has_elongated_narrow_head",
+    "has_long_neck",
+    "has_tail_carried_low"
+  ],
+  "whippet": [
+    "rose-shaped ears (small, folded back)",
+    "long, narrow muzzle",
+    "short, smooth coat",
+    "elongated body where length exceeds height",
+    "long, whip-like tail carried low"
+  ],
+  "Ibizan hound": [
+    "Large, erect ears",
+    "Tall, slender athletic build",
+    "Long, narrow muzzle",
+    "Tail carried high and curved",
+    "Short, smooth coat"
+  ],
+  "Norwegian elkhound": [
+    "curled_tail_over_back",
+    "double_coat_present",
+    "black_mask_on_face",
+    "ears_erect_triangular",
+    "square_body_proportions"
+  ],
+  "otterhound": [
+    "has webbed feet",
+    "has a harsh, wiry outer coat",
+    "has a dense undercoat (double coat)",
+    "has pendulous ears",
+    "has a long otter-like muzzle"
+  ],
+  "Saluki": [
+    "Has long, pendulous ears with feathering",
+    "Has a long, plume-like tail with feathering",
+    "Has a long, narrow muzzle",
+    "Has noticeable feathering on the legs (leg feathering)",
+    "Has a slender, tall, athletic body silhouette"
+  ],
+  "Scottish deerhound": [
+    "Has a rough, wiry outer coat",
+    "Is exceptionally tall with a long, slender frame",
+    "Has a long, narrow head and muzzle",
+    "Has small, folded-back ears",
+    "Has a long, tapering tail carried low"
+  ],
+  "Weimaraner": [
+    "Coat color is solid blue-gray",
+    "Eyes are amber/gold",
+    "Ears are long and pendulous",
+    "Body is tall, slender, athletic",
+    "Tail is long and carried (not docked)"
+  ],
+  "Staffordshire bullterrier": [
+    "Has a muscular, compact build",
+    "Has a broad, short skull with a strong jaw",
+    "Has a short, smooth coat that lies close to the body",
+    "Has rose or button ears (folded) rather than large erect ears",
+    "Has a thick tail carried low and straight"
+  ],
+  "American Staffordshire terrier": [
+    "Has a broad skull",
+    "Has a short, smooth coat",
+    "Has a muscular, stocky build",
+    "Has a short muzzle",
+    "Has a deep chest"
+  ],
+  "Bedlington terrier": [
+    "Has a pear-shaped, narrow head",
+    "Coat is woolly and curly (not wiry)",
+    "Coat color limited to blue or liver shades",
+    "Arched back with a ram-like silhouette",
+    "Ears are long, pendulous, and set low on the head"
+  ],
+  "Border terrier": [
+    "Has a wiry, harsh outer coat (with soft undercoat)",
+    "Has small V-shaped ears that fold forward",
+    "Has a high-set tail thick at the base carried gaily",
+    "Has a rectangular body shape, longer than tall (compact and sturdy)",
+    "Has coat colors including red, grizzle, or blue-and-tan (often with white markings)"
+  ],
+  "Kerry blue terrier": [
+    "Has blue, solid coat color",
+    "Has a prominent beard and moustache",
+    "Has dark eyes",
+    "Has a black nose",
+    "Has small, V-shaped ears carried erect"
+  ],
+  "Irish terrier": [
+    "has_wiry_coat",
+    "coat_color_is_solid_red",
+    "has_prominent_moustache_and_beard",
+    "ears_are_small_V-shaped_folded_close_to_head",
+    "tail_carried_high_and_stiff"
+  ],
+  "Norfolk terrier": [
+    "has drop ears that fold forward (not erect)",
+    "coats are wiry and harsh (rough-coated) texture",
+    "prominent facial furnishings (moustache and eyebrows) present",
+    "compact, square body conformation",
+    "small height at withers (approximately 10–11 inches)"
+  ],
+  "Norwich terrier": [
+    "ears_erect",
+    "tail_short",
+    "coat_wiry",
+    "body_compact",
+    "size_small"
+  ],
+  "Yorkshire terrier": [
+    "has a long, silky, straight coat that hangs down the body",
+    "coat color is blue with tan markings on the face, chest, and legs",
+    "very small size (toy breed) with a compact build",
+    "ears are erect and set high on the head",
+    "tail is carried high over the back with long hair"
+  ],
+  "haired fox terrier": [
+    "has a wiry, dense coat",
+    "has a pronounced beard and eyebrows on the face",
+    "ears are small, V-shaped, and carried forward",
+    "body is compact and rectangular with a relatively short back",
+    "coat color is predominantly white with black and tan markings"
+  ],
+  "Lakeland terrier": [
+    "has_wiry_hard_outer_coat",
+    "has_dense_soft_undercoat",
+    "ears_are_small_V-shaped_and_fold_forward",
+    "tail_is_short_and_docked_and_carried_high",
+    "body_shape_is_compact_and_square"
+  ],
+  "Sealyham terrier": [
+    "has white coat",
+    "coat is wiry",
+    "ears are small and pendulous",
+    "eyes are dark",
+    "nose is black"
+  ],
+  "Airedale": [
+    "has_wiry_coat",
+    "has_black_saddle_pattern",
+    "has_prominent_moustache_and_beard",
+    "shoulder_height_at_least_22_inches",
+    "ears_are_small_V-shaped_and_fold_close_to_head"
+  ],
+  "cairn": [
+    "Has a harsh wiry outer coat with a soft undercoat (double coat)",
+    "Has a compact, square body with short legs",
+    "Has small, erect triangular ears set high on the head",
+    "Has a tail carried high over the back (not docked)",
+    "Has a beard and bushy eyebrows around the muzzle"
+  ],
+  "Australian terrier": [
+    "Erect ears",
+    "Coat is rough and wiry with leg feathering",
+    "Small size (under 12 inches tall at the withers)",
+    "Distinct moustache and beard on the muzzle",
+    "Color pattern blue with tan or red"
+  ],
+  "Dandie Dinmont": [
+    "has_long_low_body_with_short_legs",
+    "has_topknot_of_hair_on_head",
+    "has_prominent_mustache_and_bushy_eyebrows",
+    "has_small_pendulous_ears_set_low",
+    "coat_color_is_pepper_or_mustard"
+  ],
+  "Boston bull": [
+    "short_muzzle",
+    "black_and_white_tuxedo_coat",
+    "erect_small_ears",
+    "short_tail",
+    "large_round_dark_eyes"
+  ],
+  "miniature schnauzer": [
+    "has_wiry_coat",
+    "has_distinctive_beard_and_eyebrows",
+    "has_square_compact_body",
+    "height_withers_12_to_14_inches",
+    "coat_colors_include_salt_and_pepper_or_black"
+  ],
+  "giant schnauzer": [],
+  "standard schnauzer": [
+    "has prominent, bushy eyebrows above the eyes",
+    "has a distinctive beard on the muzzle",
+    "has a wiry, harsh outer coat",
+    "has a compact, square body silhouette",
+    "has a docked, short tail"
+  ],
+  "Scotch terrier": [
+    "Beard and bushy eyebrows present",
+    "Erect, triangular ears",
+    "Wiry, harsh outer coat with dense undercoat",
+    "Compact body with short legs",
+    "Tail is short (docked)"
+  ],
+  "Tibetan terrier": [
+    "Has a long facial beard and mustache covering the muzzle",
+    "Has a long, dense double coat with a flowing appearance",
+    "Tail carried over the back in a full plume",
+    "Medium-sized, sturdy square-bodied frame (approximately 18–23 inches at the withers)",
+    "Ears are pendant and heavily feathered"
+  ],
+  "silky terrier": [
+    "long, silky coat that drapes to the ground",
+    "blue-and-tan color pattern (blue base with tan points)",
+    "ears erect and triangular on the top of the head",
+    "small toy-sized stature (generally under 11 inches at the withers)",
+    "dark, almond-shaped eyes"
+  ],
+  "coated wheaten terrier": [
+    "Uniform wheaten coat color (solid wheaten from pale cream to copper, with no black markings on the coat)",
+    "Soft, silky, wavy coat texture (not wiry)",
+    "Ears set high on the head and carried pendulously (not erect)",
+    "Distinct facial hair: prominent eyebrows and beard",
+    "Medium-sized, square body proportions (balanced, sturdy build)"
+  ],
+  "West Highland white terrier": [
+    "coat is pure white (no color patches)",
+    "double coat with a hard, wiry outer coat",
+    "facial hair forms a bearded muzzle (mustache/beard visible)",
+    "ears are small, erect, and triangular",
+    "tail carried high and not curled over the back"
+  ],
+  "Lhasa": [
+    "has a long, flowing double coat",
+    "has a topknot on the head (hair tied on top)",
+    "ears are long and heavily feathered",
+    "prominent facial beard and moustache around the muzzle",
+    "tail carried over the back in a high plume"
+  ],
+  "coated retriever": [],
+  "golden retriever": [
+    "Has a dense, double coat",
+    "Coat length is medium to long with feathering on the ears, legs, and tail",
+    "Coat color is golden (ranging from light cream to deep gold)",
+    "Ears are pendulous (droop) and set at the sides of the head",
+    "Tail is long, thick, and bushy, carried level with the back"
+  ],
+  "Labrador retriever": [
+    "otter_tail",
+    "short_dense_double_coat",
+    "pendulous_ears",
+    "webbed_paws",
+    "brown_eyes"
+  ],
+  "Chesapeake Bay retriever": [
+    "Solid brown coat with no white markings",
+    "Short, dense, water-repellent double coat",
+    "Dark brown eyes",
+    "Thick, muscular tail carried low",
+    "Broad skull with a strong, moderately long muzzle"
+  ],
+  "haired pointer": [
+    "long_coat_present",
+    "leg_feathering_present",
+    "facial_hair_beard_present",
+    "eyebrows_present",
+    "tail_feathering_present"
+  ],
+  "vizsla": [
+    "has_short_smooth_coat",
+    "coat_color_solid_rust_golden",
+    "eye_color_amber_chestnut",
+    "ears_long_pendulous",
+    "tail_long_carried_high"
+  ],
+  "English setter": [
+    "Has a long, silky coat",
+    "Has heavy feathering on legs, chest, and tail",
+    "Has a white base coat with irregular colored patches (belton pattern)",
+    "Has long, pendulous ears with fringe",
+    "Has a long, plume-like tail with feathering"
+  ],
+  "Irish setter": [
+    "Long, silky coat with feathering on ears, legs, and tail",
+    "Coat color is solid reddish chestnut (no black or white markings)",
+    "Pronounced feathering on the ears",
+    "Tail is long with feathering and carried with a slight upward curve",
+    "Tall, slender, athletic build with a refined head and deep chest"
+  ],
+  "Gordon setter": [
+    "Has a black coat with tan points",
+    "Has heavy feathering on legs and tail",
+    "Has long, pendulous ears",
+    "Has a long muzzle (elongated snout)",
+    "Has a long, heavily feathered tail carried high"
+  ],
+  "Brittany spaniel": [
+    "White base coat with orange or liver patches (bi-color pattern)",
+    "Long, pendulous ears with feathering",
+    "Short- to medium-length coat with visible feathering on chest and legs",
+    "Medium-sized, compact, athletic build",
+    "Tail docked or naturally bobbed (short tail)"
+  ],
+  "clumber": [
+    "white coat with lemon or orange patches",
+    "long, heavily feathered ears",
+    "stocky, heavy body with short legs",
+    "broad, blocky skull with a short muzzle",
+    "dark brown eyes"
+  ],
+  "English springer": [
+    "Long, pendulous ears with heavy feathering",
+    "Medium-length double coat with pronounced feathering on legs and chest",
+    "White base coat with black or liver patches (bi-color pattern)",
+    "Saddle-shaped patch of color on the mid-back (saddle) common",
+    "Dark brown eyes"
+  ],
+  "Welsh springer spaniel": [
+    "Has red-and-white coat coloring (predominant red with white markings)",
+    "Has long, pendulous ears with feathering",
+    "Has a white blaze on the face between the eyes",
+    "Has a dense, medium-length double coat",
+    "Is a medium-sized dog (approximately 45–50 cm at the withers)"
+  ],
+  "cocker spaniel": [
+    "Has long, pendulous ears with heavy feathering",
+    "Has a silky, medium-length coat with feathering on ears, chest, and legs",
+    "Has large, round, dark eyes",
+    "Has a relatively short muzzle with a defined stop",
+    "Has a compact, small-to-medium body size"
+  ],
+  "Sussex spaniel": [
+    "Long, low-slung body (body length greater than height at withers)",
+    "Very long, pendulous ears with feathering",
+    "Coat color pale wheaten/golden with white markings",
+    "Deep, broad chest and stout overall build",
+    "Tail carried low and relatively short"
+  ],
+  "Irish water spaniel": [
+    "rat-tail (hairless along most of its length, with a tuft at the tip)",
+    "dense corkscrew-curly coat all over the body",
+    "uniform liver-brown coat color",
+    "prominent beard and moustache on the muzzle",
+    "webbed feet"
+  ],
+  "kuvasz": [
+    "Solid white coat with no markings",
+    "Long, dense double coat with feathering on ears and tail",
+    "Pendant (drooping) ears",
+    "Large-sized breed with a sturdy, muscular build",
+    "Bushy tail carried low when at rest"
+  ],
+  "schipperke": [
+    "Coat color: solid black",
+    "Ears: erect and triangular",
+    "Tail: carried over the back in a curl",
+    "Body: compact, square-shaped frame",
+    "Coat: dense double coat with thick undercoat"
+  ],
+  "groenendael": [
+    "Solid black coat color",
+    "Long dense double coat",
+    "Neck mane (longer fur around the neck)",
+    "Uniform black face with no lighter markings",
+    "Ears erect and triangular"
+  ],
+  "malinois": [
+    "has_black_facial_mask",
+    "ears_are_erect",
+    "coat_is_short_and_dense",
+    "color_pattern_is_fawn_to_mahogany_with_black_overlay",
+    "eyes_are_dark_brown"
+  ],
+  "briard": [
+    "has_long_coat",
+    "has_beard_like_muzzle",
+    "ears_natural_not_cropped",
+    "tail_long_and_carried_down",
+    "color_pattern_fauve_with_black_mask"
+  ],
+  "kelpie": [
+    "Ears erect (pricked)",
+    "Coat: short, dense double coat",
+    "Muzzle: long and narrow",
+    "Tail: long and carried low",
+    "Body: slender, athletic build with deep chest"
+  ],
+  "komondor": [
+    "Corded coat throughout the body (cords/dreadlocks)",
+    "Pure white coat color",
+    "Face and eyes largely obscured by cords",
+    "Large breed size with robust build",
+    "Long corded tail carried low"
+  ],
+  "Old English sheepdog": [
+    "Has a long, shaggy coat",
+    "Eyes typically obscured by the coat",
+    "Color pattern blue-gray and white with patches",
+    "Ears small and drop-shaped covered in hair",
+    "Large, barrel-shaped body with a sturdy build"
+  ],
+  "Shetland sheepdog": [
+    "double coat with long outer hair and dense undercoat",
+    "neck mane (ruff) around the neck",
+    "long, bushy tail carried low",
+    "small triangular ears typically erect with forward-folded tips",
+    "wedge-shaped head with almond-shaped dark eyes"
+  ],
+  "collie": [
+    "Long, dense double coat with a mane-like ruff around the neck",
+    "White collar/ruff and white chest and legs markings",
+    "Semi-erect ears with tips that fold forward",
+    "Almond-shaped eyes",
+    "Long, narrow muzzle and wedge-shaped head"
+  ],
+  "Border collie": [
+    "Dense double coat",
+    "Black-and-white coloration with a white blaze on the face",
+    "White chest bib",
+    "Ears that are erect or semi-erect",
+    "Long, bushy tail carried low"
+  ],
+  "Bouvier des Flandres": [
+    "Neck mane present",
+    "Beard and bushy eyebrows present",
+    "Rough, dense medium-to-long double coat",
+    "Square, muscular body with deep chest",
+    "Broad skull with a strong muzzle"
+  ],
+  "Rottweiler": [
+    "Has black coat with rust (mahogany) markings",
+    "Has dark brown eyes",
+    "Has a broad skull with a pronounced stop",
+    "Has a rectangular body with a deep chest",
+    "Has a short, dense double coat"
+  ],
+  "German shepherd": [
+    "Ears: large, triangular, and permanently erect",
+    "Muzzle: long, strong with a pronounced stop",
+    "Coat: double coat with dense undercoat and medium-length guard hairs",
+    "Color pattern: typically black-and-tan with a dark saddle on the back",
+    "Tail: long, bushy, and carried low when at rest"
+  ],
+  "Doberman": [
+    "Has a short, sleek coat",
+    "Rust-colored markings around eyes, muzzle, chest, and legs",
+    "Long, narrow head with a defined stop and strong jaw",
+    "Ears typically erect and triangular",
+    "Tail docked to a short length"
+  ],
+  "miniature pinscher": [
+    "short, smooth coat",
+    "compact, square body proportions",
+    "ears naturally upright and triangular",
+    "dark, almond-shaped eyes",
+    "short muzzle with a defined stop"
+  ],
+  "Greater Swiss Mountain dog": [
+    "Has a tri-color coat (black base with white and rust markings)?",
+    "Has a white collar around the neck?",
+    "Has a white blaze on the face?",
+    "Has white markings on the chest and legs (white feet)?",
+    "Has a long, bushy tail carried low?"
+  ],
+  "Bernese mountain dog": [
+    "has a tri-color coat (black with rust and white markings)",
+    "has a white chest bib",
+    "has rust markings above the eyes (eyebrows) and on the cheeks",
+    "has a long, thick double coat with feathering on the legs and tail",
+    "has floppy pendant ears"
+  ],
+  "Appenzeller": [
+    "tri-color coat (black, tan, and white)",
+    "white blaze on face with white neck collar",
+    "white markings on paws and white-tipped tail",
+    "ears are erect and triangular",
+    "dense double coat with short-to-medium length and a sturdy square build"
+  ],
+  "EntleBucher": [
+    "Coat length short and dense (no long or wiry fur)",
+    "Dominant coat color black with tri-color pattern (black with white and tan markings)",
+    "White chest patch present",
+    "White markings on the paws (socks) present",
+    "Tan markings above the eyes (eyebrows) present"
+  ],
+  "boxer": [
+    "short muzzle",
+    "black facial mask",
+    "short, smooth coat",
+    "square, muscular body with deep chest",
+    "forehead wrinkles"
+  ],
+  "bull mastiff": [
+    "Has a broad, blocky head",
+    "Has a short, broad muzzle",
+    "Has a black mask on the face",
+    "Has a short, dense coat that lies flat",
+    "Has a very muscular, heavy-set body with a deep chest"
+  ],
+  "Tibetan mastiff": [
+    "neck_mane_present",
+    "tail_curled_over_back",
+    "dense_long_double_coat",
+    "ears_small_and_drooping",
+    "broad_head_with_short_muzzle"
+  ],
+  "French bulldog": [
+    "Has large, erect bat-like ears",
+    "Has a short, flat muzzle (brachycephalic) on a pushed-in face",
+    "Has a compact, stocky 'cobby' body with a broad chest and short legs",
+    "Has a very short tail or no visible tail (often corkscrew)",
+    "Has a short, smooth coat with minimal undercoat"
+  ],
+  "Great Dane": [
+    "Very tall stature (giant breed with long legs)",
+    "Harlequin coat pattern (white with irregular black patches)",
+    "Short, smooth coat texture",
+    "Rectangular, elongated head with a long muzzle",
+    "Naturally floppy ears (not cropped)"
+  ],
+  "Saint Bernard": [
+    "Is among the largest dog breeds (giant category)?",
+    "Has a broad, blocky head?",
+    "Has a black facial mask around the muzzle and eyes?",
+    "Has a white base coat with reddish-brown patches?",
+    "Has loose skin on the neck and jowls (dewlap)?"
+  ],
+  "Eskimo dog": [
+    "White coat color",
+    "Erect ears",
+    "Tail carried over back in a fluffy plume",
+    "Long fluffy double coat",
+    "Prominent neck ruff (neck mane)"
+  ],
+  "malamute": [
+    "Has erect, triangular ears",
+    "Has a thick, bushy tail carried over the back",
+    "Has a dense double coat",
+    "Has a broad, blunt muzzle",
+    "Has dark brown almond-shaped eyes"
+  ],
+  "Siberian husky": [
+    "blue_eyes",
+    "erect_triangular_ears",
+    "thick_double_coat",
+    "facial_mask",
+    "bushy_tail_over_back"
+  ],
+  "affenpinscher": [
+    "Wiry, dense coat with a harsh texture",
+    "Solid black coat color",
+    "Monkey-like face with prominent eyebrows and moustache",
+    "Small, compact, square body with short legs",
+    "Short, docked tail carried high"
+  ],
+  "basenji": [
+    "ears_erect",
+    "tail_curled_over_back",
+    "coat_short",
+    "eyes_almond_shape",
+    "body_slim_athletic"
+  ],
+  "pug": [
+    "brachycephalic head with a short, flat muzzle",
+    "distinct facial wrinkles on the forehead and around the muzzle",
+    "curled corkscrew tail that coils over the back",
+    "black facial mask around the muzzle and eyes",
+    "large, round, prominent eyes"
+  ],
+  "Leonberg": [
+    "Has a long, dense double coat",
+    "Exhibits a lion-like mane around the neck",
+    "Displays a black facial mask on the muzzle",
+    "Is a giant breed with large size (typically tall at the withers)",
+    "Has a long, bushy tail carried low"
+  ],
+  "Newfoundland": [
+    "Very large size (withers height typically over 25 inches)",
+    "Broad, massive head with a short, wide muzzle",
+    "Dense, long double coat that is water-repellent",
+    "Webbed feet",
+    "Long, thick paddle-shaped tail carried low"
+  ],
+  "Great Pyrenees": [
+    "Has a long, thick double coat",
+    "Coat color predominantly white",
+    "Has dark brown eyes",
+    "Has small, drop ears",
+    "Has a long, bushy tail"
+  ],
+  "Samoyed": [
+    "Coat color is white",
+    "Has a dense, fluffy double coat with a pronounced neck ruff",
+    "Tail carried over the back in a full, bushy plume",
+    "Ears are triangular and erect",
+    "Facial expression with upturned lips giving a 'smiling' appearance"
+  ],
+  "Pomeranian": [
+    "Very small size (toy breed)",
+    "Dense, fluffy double coat with long outer guard hairs",
+    "Prominent neck mane (lion-like ruff)",
+    "Tail carried over the back in a high plume",
+    "Ears small, erect, triangular"
+  ],
+  "chow": [
+    "Blue-black tongue",
+    "Tail curled over the back with dense bushy fur",
+    "Thick double coat with a lion-like mane around the neck",
+    "Small triangular ears that stand erect",
+    "Broad head with a short, square muzzle and deep-set eyes"
+  ],
+  "keeshond": [
+    "Neck mane (ruff) present",
+    "Tail carried over the back in a fluffy plume",
+    "Distinct black facial mask",
+    "Long, dense double coat",
+    "Small, erect ears"
+  ],
+  "Brabancon griffon": [
+    "wiry_rough_coat",
+    "beard_and_eyebrows",
+    "small_compact_body",
+    "dark_face_mask",
+    "large_round_eyes"
+  ],
+  "Pembroke": [
+    "Has a long body (body length greater than height at withers)",
+    "Has short legs proportional to body length",
+    "Has erect, relatively large ears",
+    "Has a naturally short tail (bobtail) or commonly docked",
+    "Has a dense double coat with a soft undercoat"
+  ],
+  "Cardigan": [
+    "body_length_exceeds_height",
+    "long_non_docked_tail",
+    "rounded_ear_tips",
+    "neck_mane_present",
+    "thick_double_coat"
+  ],
+  "toy poodle": [
+    "Height at the withers at most 25 cm (10 inches).",
+    "Coat is curly with tight ringlets.",
+    "Ears are long and pendulous with hair.",
+    "Tail carried high with a hair plume.",
+    "Prominent beard and eyebrows on the face."
+  ],
+  "miniature poodle": [
+    "curly, dense coat texture",
+    "long, feathered ears",
+    "high-set tail with a pom-pom tuft",
+    "miniature size (generally under 15 inches at the withers)",
+    "bearded muzzle (distinctive facial hair)"
+  ],
+  "standard poodle": [
+    "has curly coat",
+    "tail carried high with a pom-pom",
+    "ears are long and droopy",
+    "head is narrow with a long muzzle",
+    "feet are compact and cat-like"
+  ],
+  "Mexican hairless": [
+    "hairless_coat",
+    "skin_wrinkles_on_head_and_neck",
+    "large_erect_ears",
+    "rectangular_slim_body_shape",
+    "long_tapered_tail"
+  ],
+  "dingo": [
+    "has large erect ears",
+    "coat color uniform sandy-yellow to reddish (no distinct color bands or patterns)",
+    "has a long, narrow muzzle",
+    "tail thick at base, carried low",
+    "body size medium with a lean, athletic build"
+  ],
+  "dhole": [
+    "Rounded ears: yes",
+    "Coat color: reddish uniform (no distinct patches): yes",
+    "Tail tip color: black: yes",
+    "Facial mask: absent (no dark mask): yes",
+    "Body type: slender, medium-sized with relatively long legs: yes"
+  ],
+  "African hunting dog": [
+    "Has large rounded ears",
+    "Has a mottled coat with irregular patches of black, tan, and white",
+    "Has a white-tipped tail",
+    "Has a slender, long-legged build",
+    "Has distinct dark eye patches / facial mask"
+  ]
+}

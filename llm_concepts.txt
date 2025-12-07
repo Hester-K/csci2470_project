@@ -1,0 +1,29 @@
+long coat
+short coat
+wir y coat
+curly coat
+double coat
+single coat
+beard
+mustache
+facial wrinkles
+bushy eyebrows
+ears erect
+ears droopy
+tail curled
+tail docked
+tail carried high
+tail carried low
+muzzle long
+muzzle short
+facial mask
+neck ruff
+feathering on legs
+dewclaws present
+dewclaws absent
+webbed feet
+brindle pattern
+merle pattern
+spotted coat
+solid coat
+jowls present
